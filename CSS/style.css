@@ -104,13 +104,13 @@ header .header-menu-line {
 
 header .header-menu {
     display: inline-block;
-    width: 1170px;
-    height: 88px;
+    width: 85.6%;
+    height: 3.65em;
     border: none;
 }
 
 .header-menu-div {
-    width: 1170px;
+    width: 101.4%;
     padding: 0;
     margin-right: 7.174%;
     margin-left: 7.174%;
@@ -122,10 +122,10 @@ header .header-menu .logo {
 
 header .header-menu .logo a {
     float: left;
-    padding: 22px 0 0 0;
-    height: 75px;
-    font-size: 18px;
-    line-height: 20px;
+    padding: 15.84% 0 0 0;
+    height: 4.167em;
+    font-size: 0.75em;
+    line-height: 1.12em;
 }
 
 header .header-menu .logo .text-logo {
@@ -137,21 +137,21 @@ header .header-menu .logo .text-logo {
 header .header-menu .logo .text-logo .primary_text {
     font-family: 'Yellowtail', cursive;
     color: #FFF;
-    font-size: 40px;
+    font-size: 2.44em;
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 6.55%;
     text-align: center;
-    padding-right: 5px;
+    padding-right: 4%;
     transition-duration: 0s;
 }
 
 header .header-menu .logo .text-logo .secondary_text {
     color: #FFF;
     font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
+    font-size: 1.1em;
     display: block;
     text-align: center;
-    letter-spacing: 9px;
+    letter-spacing: 0.468em;
     text-transform: uppercase;
     transition-duration: 0s;
 }
@@ -176,7 +176,7 @@ header .header-menu .bottoms>ul {
 .header-menu-bottoms li a {
     color: #fff;
     display: block;
-    font-size: 14px;
+    font-size: 0.583em;
     padding: 38px 15px 20px 15px !important;
     text-transform: uppercase;
     font-weight: 700;
@@ -211,19 +211,10 @@ background-color: #08c74c;
 }
 
 .slide {
-    width: 33.33%;
+    width: 10%;
     height: auto;
     float: left;
     list-style: none;
     margin: 0;
     padding: 0;
-    baackground: #ff0000;
-}
-
-.second {
-     baackground: #00ff00;   
-}
-
-.third {
-     baackground: #0000ff;   
 }
