@@ -10,7 +10,9 @@ function nextSlide(){
     currentSlide++;
     if(currentSlide>=$('.slidewrapper').children().size())
     {
-        currentSlide=0;   
+        currentSlide=0;  
+        $('.slidewrapper').animate({left: -currentSlide*slideWidth},0).data('current',currentSlide);
     }
     $('.slidewrapper').animate({left: -currentSlide*slideWidth},500).data('current',currentSlide);
+
 }
