@@ -1,3 +1,5 @@
+/* MAIN */
+
 html {
     height: 100%;
 }
@@ -32,6 +34,18 @@ h6 {
     font-weight: 400;
 }
 
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+h4, h5, h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 h1 {
     font-size: 72px;
 }
@@ -57,9 +71,9 @@ h6 {
 }
 
 p {
-    margin: 0;
+    margin: 0 0 10px;
     margin-bottom: 20px;
-    font-weight: 400;
+    font-size: 14px;
 }
 
 p+p {
@@ -102,18 +116,17 @@ header .header-menu-line {
     display: block;
 }
 
-header .header-menu {
+.header-menu {
     display: inline-block;
-    width: 85.6%;
+    width: 100%;
     height: 3.65em;
     border: none;
 }
 
 .header-menu-div {
-    width: 101.4%;
-    padding: 0;
-    margin-right: 7.174%;
-    margin-left: 7.174%;
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 header .header-menu .logo {
@@ -157,6 +170,7 @@ header .header-menu .logo .text-logo .secondary_text {
 }
 
 header .header-menu .bottoms {
+    float: right!important;
     padding-right: 0;
     border-top: 1px solid transparent;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -188,20 +202,21 @@ header .header-menu .bottoms>ul {
     background-color: #c7081b;
 }
 .header-menu-bottoms li a:hover {
-background-color: #86efde;
+background-color: #08c74c;
 }
+
 
 
 /* SLIDER */
 
-.viewport {
+.slider {
     width: 100%;
     height: auto;
     overflow: hidden;
     position: relative;
 }
 
-.slidewrapper {
+.slidersheets {
     position: relative;
     left: 0;
     top: 0;
@@ -218,3 +233,88 @@ background-color: #86efde;
     margin: 0;
     padding: 0;
 }
+
+
+
+/* WELCOME */
+
+.welcome {
+
+    border-bottom: solid 2px #fff;
+    border-top: solid 3px #fff;
+    padding: 22px 0;
+    background-color: #f0f0f0;
+}
+
+.welcome .welcome-div {
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+
+.welcome-div div {
+    width: 75%;
+}
+
+.welcome-div div h2 {
+    font-size: 30px;
+    font-weight: 300;
+    color: #000;
+    font-family: 'Open Sans', sans-serif, Arial;
+    letter-spacing: -2px;
+    margin: 0;
+    padding-left: 0;
+    line-height: 30px;
+}
+
+.welcome-div .catalog-button {
+    padding: 0;
+    width: 25%;
+    float: right;
+}
+
+.welcome-div .catalog-button a {
+    float: right;
+    font-size: 18px;
+    padding: 7px 15px;
+    background-color: #c7081b;
+    border-radius: 6px;
+    border: 0;
+    color: #fff;
+    margin: 0;
+}
+
+
+
+/* ТРИ ТОВАРА ИЗ КАТАЛОГА */
+
+.catalog-items {
+    width: 1170px;
+    margin: 25px auto 0 auto;
+}
+
+.catalog-items div.part{
+    width: 33.33333333333333%;
+    float: left;
+    
+}
+.catalog-item-img img {
+    margin: 0 auto;
+    height: 300px;
+}
+
+.catalog-item-img h4 {
+    margin: 28px 0 12px 0;
+    display: block;
+    color: #c7081b;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif, Arial;
+    letter-spacing: -0.5px;
+    text-decoration: none;
+}
+
+.catalog-item-img p {
+    width: 370px;
+}
+
