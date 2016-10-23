@@ -299,25 +299,25 @@ main {
 }
 
 .vk {
-    background: url(../images/vk.png) no-repeat;
+    background: url(../IMAGES/vk.png) no-repeat;
 }
 
 .facebook {
-    background: url(../images/social.png) 0px -32px no-repeat;
+    background: url(../IMAGES/social.png) 0px -32px no-repeat;
 }
 
 .youtube {
-    background: url(../images/social.png) -78px -32px no-repeat;
+    background: url(../IMAGES/social.png) -78px -32px no-repeat;
 }
 
 .skype {
-    background: url(../images/social.png) -273px -32px no-repeat;
+    background: url(../IMAGES/social.png) -273px -32px no-repeat;
 }
 
 .google {
-    background: url(../images/social.png) -312px -32px no-repeat;
+    background: url(../IMAGES/social.png) -312px -32px no-repeat;
 }
 
 .instagram {
-    background: url(../images/social.png) -390px -32px no-repeat;
+    background: url(../IMAGES/social.png) -390px -32px no-repeat;
 }
