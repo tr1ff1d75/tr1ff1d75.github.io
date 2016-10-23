@@ -105,6 +105,7 @@
 
 .catalog-item-img p {
     width: 370px;
+    text-align: justify;
 }
 
 .catalog-items-more {
@@ -130,9 +131,14 @@
     float: left;
 }
 
+.catalog-items-more-text h5 {
+    margin-top: 15px;
+}
+
 .catalog-items-more-text p {
+    text-align: justify;
     width: 180px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 .catalog-items-more-text p a {
@@ -143,15 +149,15 @@
 }
 
 .catalog-items-more-divs {
+    display: inline;
     width: 83.33333333333334%;
     margin: 0;
-    padding-left: 15px;
 }
 
 .catalog-items-more .item-block {
     display: inline!important;
     float: left;
-    margin-right: 30px;
+    margin-right: 25px;
 }
 
 .catalog-items-more .item-block .item-img {
