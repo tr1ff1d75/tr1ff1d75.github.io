@@ -132,16 +132,14 @@
 
 .catalog-items-more-text p {
     width: 180px;
+    margin-bottom: 0px;
 }
 
 .catalog-items-more-text p a {
-    font-size: 18px;
-    padding: 1px 8px;
+    font-size: 26px;
     background-color: #c7081b;
-    border-radius: 6px;
-    border: 0;
-    color: #fff;
-    margin-left: 15px;
+    color: #fff; 
+    text-align: center;
 }
 
 .catalog-items-more-divs {
