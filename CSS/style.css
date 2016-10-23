@@ -34,14 +34,27 @@ h6 {
     font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -95,9 +108,8 @@ img {
     vertical-align: middle;
 }
 
-
 width-100 {
-    width:100%;
+    width: 100%;
 }
 
 
@@ -203,20 +215,19 @@ header .header-menu .bottoms>ul {
     line-height: 31px;
 }
 
-.header-menu-bottoms li.active, .header-menu-bottoms li a:focus {
+.header-menu-bottoms li.active,
+.header-menu-bottoms li a:focus {
     background-color: #c7081b;
 }
+
 .header-menu-bottoms li a:hover {
-background-color: #08c74c;
+    background-color: #08c74c;
 }
-
-
 
 main {
     width: 100%;
-    display:inline-block;
+    display: inline-block;
 }
-
 
 
 /* FOOTER */
@@ -263,6 +274,7 @@ main {
     word-spacing: 2px;
     margin-top: 12px;
 }
+
 .footer-end {
     width: 66.66666666666666%;
     float: left;
@@ -285,12 +297,11 @@ main {
     display: block;
 }
 
-
 .vk {
     background: url(../images/vk.png) no-repeat;
 }
 
-.facebook{
+.facebook {
     background: url(../images/social.png) 0px -32px no-repeat;
 }
 
