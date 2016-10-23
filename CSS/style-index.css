@@ -36,6 +36,7 @@
 }
 
 .welcome .welcome-div {
+    display: flex;
     width: 1170px;
     margin-right: auto;
     margin-left: auto;

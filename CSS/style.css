@@ -241,18 +241,18 @@ main {
     font-size: 13px;
 }
 
-.footer-start {
+.footer1170 {
+    display: flex;
     width: 1170px;
-    margin-right: auto;
     margin-left: auto;
-    margin-bottom: 20px !important;
+    margin-right: auto;
 }
 
-.footer-start .footer-text {
+.footer1170 .footer-text {
     width: 33.33333333333333%;
 }
 
-.footer-start .footer-text a h1 {
+.footer1170 .footer-text a h1 {
     font-family: 'Yellowtail', cursive;
     font-size: 40px;
     margin-bottom: 0px;
@@ -260,7 +260,7 @@ main {
     color: #999;
 }
 
-.footer-start .footer-text a span {
+.footer1170 .footer-text span {
     display: block;
     text-transform: uppercase;
     letter-spacing: 9.5px;
@@ -268,20 +268,21 @@ main {
     padding: 0px 12px;
     color: #999;
     font-weight: 600;
+    margin-bottom: 20px;
 }
 
-.footer-start p {
+.footer1170 p {
     word-spacing: 2px;
     margin-top: 12px;
 }
 
 .footer-end {
     width: 66.66666666666666%;
-    float: left;
+    float: right;
 }
 
 .my-contacts {
-    margin: 34px 0 0 0;
+    margin: 50px 0 0 0;
     float: right;
 }
 
