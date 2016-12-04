@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile D:/xampp/htdocs/tr1ff1d75.github.io/about/admin/.htpasswd
+Require valid-user

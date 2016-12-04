@@ -1,0 +1,13 @@
+.contain {
+    margin-top: 150px;
+    margin-bottom: 70px;
+    padding: 0;
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    margin-left: -15px;
+    margin-right: -15px;
+}
