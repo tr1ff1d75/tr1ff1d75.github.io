@@ -18,7 +18,7 @@
             <div class="header-menu-div">
                 <div class="logo">
 
-                    <a href="index.html"><span class="text-logo"><span class="primary_text">kYPCA4</span> <span class="secondary_text">CATALOG</span></span></a>
+                    <a href="../index.html"><span class="text-logo"><span class="primary_text">kYPCA4</span> <span class="secondary_text">CATALOG</span></span></a>
                 </div>
 
                 <div class="bottoms">
@@ -73,7 +73,7 @@
     </main>
 
 
-     <footer>
+    <footer>
      <div class="footer1170">
             
             <div class="footer-text">
@@ -87,22 +87,22 @@
         <div class="footer-end">
             <ul class="my-contacts">
                 <li>
-                    <a class="vk" href="https://vk.com/my_new_days"></a>
+                    <a class="vk" href="https://vk.com/my_new_days" target="_blank"></a>
                 </li>
                 <li>
-                    <a class="facebook" href="https://facebook.com/dmitry_gulko"></a>
+                    <a class="facebook" href="https://facebook.com/dmitry_gulko" target="_blank"></a>
                 </li>
                 <li>
-                    <a class="youtube" href="https://www.youtube.com/channel/UCo_c3LYsq5KClhSBnbFpLiQ"></a>
+                    <a class="youtube" href="https://www.youtube.com/channel/UCo_c3LYsq5KClhSBnbFpLiQ" target="_blank" target="_blank"></a>
                 </li>
                 <li>
-                    <a class="skype" href="skype:gulko.dima?call"></a>
+                    <a class="skype" href="skype:gulko.dima?call" target="_blank"></a>
                 </li>
                 <li>
-                    <a class="google" href="https://plus.google.com/u/0/106270266280649136450"></a>
+                    <a class="google" href="https://plus.google.com/u/0/106270266280649136450" target="_blank"></a>
                 </li>
                 <li>
-                    <a class="instagram" href="https://www.instagram.com/dmitry_gulko/"></a>
+                    <a class="instagram" href="https://www.instagram.com/dmitry_gulko/" target="_blank"></a>
                 </li>
             </ul>
         </div>
