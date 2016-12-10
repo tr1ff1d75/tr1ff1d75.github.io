@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Kola';
+    src: url('fonts/kola/kolab.eot');
+    src: url('fonts/kola/kolab.eot?#iefix') format('embedded-opentype'), url('fonts/kola/kolab.woff2') format('woff2'), url('fonts/kola/kolab.woff') format('woff'), url('fonts/kola/kolab.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kola';
+    src: url('fonts/kola/kola.eot');
+    src: url('fonts/kolakola.eot?#iefix') format('embedded-opentype'), url('fonts/kola/kola.woff2') format('woff2'), url('fonts/kola/kola.woff') format('woff'), url('fonts/kola/kola.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.contain {
+    margin-top: 150px;
+    margin-bottom: 70px;
+    padding: 0;
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.container .catalog-item {
+    margin-bottom: 50px !important;
+    width: 370px;
+    height: 260px;
+    float: left;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.container .catalog-item h2 {
+    border-bottom: 1px solid #e1e1e1;
+    padding-top: 25px !important;
+    padding-bottom: 10px !important;
+    font-weight: 700;
+    margin: 0;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.photo-slider {
+    padding-left: 0 !important;
+    padding-bottom: 40px !important;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+}
+
+.information {
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+
+.price {
+    background-color: #fcee00;
+    display: inline-block;
+    font: bold 24px Kola;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+    letter-spacing: -1px;
+    text-align: left;
+    box-shadow: 3px 3px 7px rgb(170, 170, 170);
+    margin-bottom: -20px;
+    height: 100px;
+    right: 100px;
+    margin: 20px 0px 0px 350px;
+    right: 50px;
+    float: left;
+    color: #3d3d3d;
+    top: 46px;
+}
+
+.price > div {
+    font-size: 14px;
+}
+
+span.dig {
+    color: #222;
+    font-size: 60px;
+}
+
+.information p span {
+    color: #cc0066;
+}
+
+.information p+p {
+    margin: 5px 0 0;
+}
