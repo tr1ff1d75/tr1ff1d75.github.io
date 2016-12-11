@@ -1,0 +1,66 @@
+CATALOG {
+	background-image: url(bg.jpg);
+}
+
+ITEM {
+	display: inline-block;
+	margin-top: 15px;
+	float: left;
+	border: 3px solid #00008B;
+	margin-left: 50px;
+	padding: 10px;
+	line-height: 20px;
+	background-color: white;
+	width: 100px;
+	height: 100px;
+}
+
+IMAGECPP {
+	background-image: url(CPP.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:120px;
+    height: 140px;
+	float: left;
+	padding-right: 10px; 
+}
+
+IMAGEJava {
+	background-image: url(Java.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:120px;
+    height: 140px;
+	float: left;
+	padding-right: 10px;
+}
+
+IMAGEC_SHARP {
+	background-image: url(C_SHARP.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:120px;
+    height: 140px;
+	float: left;
+	padding-right: 10px;
+}
+
+IMAGEJS {
+	background-image: url(JS.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:120px;
+    height: 140px;
+	float: left;
+	padding-right: 10px;
+}
+
+
+
+SITE   {
+	display:block;
+	font-style: italic;
+	text-align: right;
+	vertical-align: top;
+	color: #696969;
+}

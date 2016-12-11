@@ -1,0 +1,104 @@
+<?xml version = "1.0" ?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<CATALOG xmlns:xlink="http://www.w3.org/1999/xlink">
+	<ITEM xlink:type="extende" xlink:href="https://www.google.by/" xlink:show="new">
+		<IMAGE-AI7/>
+		<NAME>Apple iPhone 7 Plus</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-SGN7/>
+		<NAME>Samsung Galaxy Note 7</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-XR3P/>
+		<NAME>Xiaomi Redmi 3 Pro</NAME>
+	</ITEM>
+	
+	
+	
+	<ITEM>
+		<IMAGE-MP6/>
+		<NAME>MEIZU Pro 6</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-SXXAUD/>
+		<NAME>Sony Xperia XA Ultra</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-ISE/>
+		<NAME>Apple iPhone SE</NAME>
+	</ITEM>
+	
+	
+	
+	<ITEM>
+		<IMAGE-LenovoIdeaPad700-15ISK/>
+		<NAME>Lenovo IdeaPad 700-15ISK</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-ASUSK501UX-DM036T/>
+		<NAME>ASUS K501UX-DM036T</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-LENOVOIdeaPadYoga3T/>
+		<NAME>LENOVO IdeaPad Yoga 3T</NAME>
+	</ITEM>
+	
+	
+	
+	<ITEM>
+		<IMAGE-MicrosoftSurfaceBook/>
+		<NAME>Microsoft Surface Book</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-AppleMacBook12/>
+		<NAME>Apple MacBook 12"</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-DellInspiron13/>
+		<NAME>Dell Inspiron 13 7347</NAME>
+	</ITEM>
+	
+	
+	
+	<ITEM>
+		<IMAGE-SonyKD-65ZD9/>
+		<NAME>Sony KD-65ZD9</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-TCL/>
+		<NAME>TCL 20F40S5906</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-XiaomiMiTV3S/>
+		<NAME>Xiaomi Mi TV 3S 65"</NAME>
+	</ITEM>
+	
+	
+	
+	<ITEM>
+		<IMAGE-LG43UH619V/>
+		<NAME>LG 43UH619V</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-SamsungUE32K5500AU/>
+		<NAME>Samsung UE32K5500AU</NAME>
+	</ITEM>
+	
+	<ITEM>
+		<IMAGE-Philips32PFT5501/>
+		<NAME>Philips 32PFT5501</NAME>
+	</ITEM>
+</CATALOG>

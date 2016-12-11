@@ -101,3 +101,7 @@ span.dig {
 .information p+p {
     margin: 5px 0 0;
 }
+
+.header-menu {
+    position: fixed !important;
+}

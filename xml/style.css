@@ -1,0 +1,206 @@
+CATALOG {
+	background-image: url(bg.jpg);
+}
+
+ITEM {
+	display: block;
+	margin-top: 30px;
+	float: left;
+	border: 3px solid #00008B;
+	margin-left: 50px;
+	line-height: 20px;
+	background-color: white;
+	width: 100px;
+	height: 100px;
+}
+
+IMAGE-AI7 {
+	background-image: url(items/AI7.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px; 
+}
+
+IMAGE-SGN7 {
+	background-image: url(items/SGN7.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px; 
+}
+
+IMAGE-XR3P {
+	background-image: url(items/XR3P.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-MP6 {
+	background-image: url(items/MP6.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-SXXAUD {
+	background-image: url(items/SXXAUD.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-ISE {
+	background-image: url(items/ISE.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-LenovoIdeaPad700-15ISK {
+	background-image: url(items/LenovoIdeaPad700-15ISK.jpeg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-ASUSK501UX-DM036T {
+	background-image: url(items/ASUSK501UX-DM036T.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-LENOVOIdeaPadYoga3T {
+	background-image: url(items/LENOVOIdeaPadYoga3T.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-MicrosoftSurfaceBook {
+	background-image: url(items/MicrosoftSurfaceBook.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-AppleMacBook12 {
+	background-image: url(items/AppleMacBook12.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+
+IMAGE-DellInspiron13 {
+	background-image: url(items/DellInspiron13.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-SonyKD-65ZD9 {
+	background-image: url(items/SonyKD-65ZD9.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-TCL {
+	background-image: url(items/TCL.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-XiaomiMiTV3S {
+	background-image: url(items/XiaomiMiTV3S.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-LG43UH619V {
+	background-image: url(items/LG43UH619V.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-SamsungUE32K5500AU {
+	background-image: url(items/SamsungUE32K5500AU.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+IMAGE-Philips32PFT5501 {
+	background-image: url(items/Philips32PFT5501.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100px;
+    height: 100px;
+	float: left;
+	padding-right: 0px;
+}
+
+
+NAME   {
+	display:block;
+	font-style: italic;
+	text-align: right;
+	vertical-align: top;
+	color: #696969;
+	line-height: 1;
+}
